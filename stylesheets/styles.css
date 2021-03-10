@@ -1,5 +1,4 @@
-p, ul }
-}
+p, ul {
     font-family: "Times New Roman", serif;
     color: #497335;
     max-width: 30em;
@@ -8,21 +7,22 @@ p, ul }
     margin: 1em auto 1em auto;
     font-size: 3em;
     line-height: 1.3;
-
 }
+
 user agent stylesheet
-p     }
+p {
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+}
 
-    body }
-    p      }
-        background-color: #add8e6;
-        margin: 1em auto;
-        font-size: 10px;
-        padding: 1em;
-        text-align: center;
-        font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    body {
+      background-color: #add8e6;
+      margin: 1em auto;
+      font-size: 10px;
+      padding: 1em;
+      text-align: center;
+      font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  }
