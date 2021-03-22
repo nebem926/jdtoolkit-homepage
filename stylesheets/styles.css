@@ -29,9 +29,10 @@ p {
       img {
       max-width: 100%;
       height: auto;
-  }
-    img [Attributes Style] {
-      width: 500px;
-      aspect-ratio: auto 500 / 191;
-      height: 191px;
-  }
+    }
+
+      img[Attributes Style] {
+        width: 500px;
+        aspect-ratio: auto 500 / 667;
+        height: 667px;
+    }
