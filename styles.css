@@ -21,7 +21,7 @@ p {
     body {
       background-color: #DDA0DD;
       margin: 1em auto;
-      font-size: 12px;
+      font-size: 10px;
       padding: 1em;
       text-align: center;
       font-family: "Lucida Console", "Courier New", monospace;
@@ -36,6 +36,3 @@ p {
         aspect-ratio: auto 500 / 667;
         height: 667px;
     }
-
-
-    
