@@ -1,6 +1,6 @@
 p, ul {
-    font-family: "Times New Roman", serif;
-    color: #497335;
+    font-family: "Monaco", monospace;
+    color: #000000;
     max-width: 30em;
     width: 100%;
     text-align: left;
@@ -19,19 +19,19 @@ p {
 }
 
     body {
-      background-color: #add8e6;
+      background-color: #DDA0DD;
       margin: 1em auto;
-      font-size: 10px;
+      font-size: 12px;
       padding: 1em;
       text-align: center;
-      font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+      font-family: "Lucida Console", "Courier New", monospace;
   }
       img {
       max-width: 100%;
       height: auto;
     }
 
-      img[Attributes Style] {
+      img [Attributes Style] {
         width: 500px;
         aspect-ratio: auto 500 / 667;
         height: 667px;
